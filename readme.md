@@ -17,6 +17,9 @@ Hello! I am a first-year diploma student in computer science engineering, passio
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rudraparmar76&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+## ✨ Badges
+[![An image of @rudraparmar76's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rudraparmar76)](https://holopin.io/@rudraparmar76)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
