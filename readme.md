@@ -19,7 +19,6 @@ Hello! I am a second-year diploma student in computer science engineering, passi
 
 ## ✨ Badges
 [![An image of @rudraparmar76's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rudraparmar76)](https://holopin.io/@rudraparmar76)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
