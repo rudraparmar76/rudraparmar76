@@ -1,11 +1,6 @@
-
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Frudraparmar76"><img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frudraparmar76&countColor=%23263759" /></a>
-
 <h1 align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Cedarville+Cursive&size=25&pause=1000&color=F7F2F0&background=429DFF00&center=true&vCenter=true&random=false&width=482&lines=Hello+I'm+Rudra+Parmar+👋;An+enthusiastic+future+software+engineer+!;Exploring+the+new+Technologies" alt="Typing SVG" />
+  <img src="github-header-image.png" alt="header-img"/>
 </a>
-
 </h1>
 
 ## 🌐 Socials:
