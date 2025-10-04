@@ -23,6 +23,10 @@
   </a>
 </p>
 
+## 🕹️ Pac-Man eating my contributions
+
+![pacman graph](https://github.com/rudraparmar76/rudraparmar76/blob/output/pacman-contribution-graph.svg)
+
 ## ⚡ Stats:
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=rudraparmar76&theme=dark&hide_border=false" alt="readme stats" />
