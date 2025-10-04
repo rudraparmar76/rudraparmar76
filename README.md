@@ -43,6 +43,11 @@
 
 ## ✨ Badges
 [![An image of @rudraparmar76's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rudraparmar76)](https://holopin.io/@rudraparmar76)
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=rudraparmar76&label=Profile%20views&color=0e75b6&style=flat" alt="rudraparmar76" />
+</p>
+
 ---
 <h1 align="center">
 <a href="https://git.io/typing-svg">
