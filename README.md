@@ -37,7 +37,11 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=rudraparmar76&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="streak stats"/>
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraparmar76&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
+<br/>
+  <img src="https://github.pumbas.net/api/contributions/rudraparmar76" alt="rudraparmar76's GitHub contributions" />
+
 </div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rudraparmar76&theme=radical&no-frame=false&no-bg=false&margin-w=4)
