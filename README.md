@@ -144,16 +144,6 @@ const rudraparmar76 = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/rudraparmar76/rudraparmar76/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💖 Show Some Love
