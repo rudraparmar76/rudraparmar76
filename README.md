@@ -10,7 +10,7 @@
 
 ### 👋 About
 
-Full-stack developer passionate about **web development**, **mobile apps**, and **AI/ML**. I work with Python, JavaScript, and modern frameworks to build scalable applications.
+Full-stack developer passionate about **web development**, **mobile apps**, and **AI/ML**. I work with various technologies and modern frameworks to build scalable applications.
 
 **Current Focus:** AI-powered applications
 
