@@ -29,5 +29,5 @@ Full-stack developer passionate about **web development**, **mobile apps**, and 
 <p align="center">
   <a href="mailto:rudraparmar1309@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/rudra-parmar-089125245">LinkedIn</a> •
-  <a href="https://portfolio-rudraparmar76.vercel.app">Portfolio</a>
+  <a href="https://rudraparmar-portfolio.vercel.app/">Portfolio</a>
 </p>
