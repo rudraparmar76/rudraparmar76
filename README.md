@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="github-header-image.png" alt="Rudra Parmar"/>
+  <img src="banner.png" alt="Rudra Parmar"/>
 </h1>
 
 <p align="center">
